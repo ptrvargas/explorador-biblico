@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "BIB-001",
+    "points": 100,
+    "type": "pregunta",
+    "question": "¿Quién construyó el arca por mandato de Dios?",
+    "options": [
+      "Abraham",
+      "Noé",
+      "Moisés",
+      "Jacob"
+    ],
+    "correctAnswer": "Noé",
+    "reference": "Génesis 6:14",
+    "explanation": "Dios instruyó a Noé para construir el arca antes del diluvio.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-002",
+    "points": 100,
+    "type": "pregunta",
+    "question": "¿Quién derrotó a Goliat?",
+    "options": [
+      "Saúl",
+      "Jonatán",
+      "David",
+      "Samuel"
+    ],
+    "correctAnswer": "David",
+    "reference": "1 Samuel 17:49-50",
+    "explanation": "David derrotó al gigante filisteo usando una honda y una piedra.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-003",
+    "points": 100,
+    "type": "pregunta",
+    "question": "¿Quién fue echado al foso de los leones?",
+    "options": [
+      "Daniel",
+      "Jeremías",
+      "Isaías",
+      "Ezequiel"
+    ],
+    "correctAnswer": "Daniel",
+    "reference": "Daniel 6:16",
+    "explanation": "Daniel fue condenado por continuar orando a Dios.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-004",
+    "points": 100,
+    "type": "pregunta",
+    "question": "¿En qué ciudad nació Jesús?",
+    "options": [
+      "Nazaret",
+      "Jerusalén",
+      "Jericó",
+      "Belén"
+    ],
+    "correctAnswer": "Belén",
+    "reference": "Mateo 2:1",
+    "explanation": "Jesús nació en Belén de Judea.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-005",
+    "points": 100,
+    "type": "cita",
+    "question": "¿Dónde está escrito: “Jehová es mi pastor; nada me faltará”?",
+    "options": [
+      "Salmo 1:1",
+      "Salmo 23:1",
+      "Salmo 46:1",
+      "Salmo 91:1"
+    ],
+    "correctAnswer": "Salmo 23:1",
+    "reference": "Salmo 23:1",
+    "explanation": "Es la frase inicial del conocido Salmo 23.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-006",
+    "points": 100,
+    "type": "cita",
+    "question": "¿Dónde está escrito: “Todo lo puedo en Cristo que me fortalece”?",
+    "options": [
+      "Filipenses 4:13",
+      "Romanos 8:28",
+      "Efesios 6:10",
+      "Hebreos 11:1"
+    ],
+    "correctAnswer": "Filipenses 4:13",
+    "reference": "Filipenses 4:13",
+    "explanation": "Pablo expresa su capacidad para afrontar toda circunstancia mediante Cristo.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-007",
+    "points": 100,
+    "type": "completar",
+    "question": "“Lámpara es a mis pies tu palabra, y _____ a mi camino.”",
+    "options": [
+      "luz",
+      "guía",
+      "lumbrera",
+      "verdad"
+    ],
+    "correctAnswer": "lumbrera",
+    "reference": "Salmo 119:105",
+    "explanation": "La Palabra de Dios es presentada como guía para el camino.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-008",
+    "points": 100,
+    "type": "completar",
+    "question": "“En el principio creó Dios los cielos y la _____.”",
+    "options": [
+      "humanidad",
+      "tierra",
+      "vida",
+      "creación"
+    ],
+    "correctAnswer": "tierra",
+    "reference": "Génesis 1:1",
+    "explanation": "Es la primera declaración de la Biblia.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-009",
+    "points": 100,
+    "type": "emoji",
+    "question": "¿Qué historia representan estos emojis? 🍎🐍🌳👫",
+    "options": [
+      "Caín y Abel",
+      "Adán y Eva",
+      "Noé y el diluvio",
+      "Abraham y Sara"
+    ],
+    "correctAnswer": "Adán y Eva",
+    "reference": "Génesis 3",
+    "explanation": "Los emojis representan la tentación en el jardín de Edén.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-010",
+    "points": 100,
+    "type": "emoji",
+    "question": "¿Qué historia representan estos emojis? 🐋🌊🙏🏙️",
+    "options": [
+      "Pedro caminando sobre el agua",
+      "Jonás",
+      "Pablo naufragando",
+      "El cruce del Mar Rojo"
+    ],
+    "correctAnswer": "Jonás",
+    "reference": "Jonás 1–3",
+    "explanation": "Jonás fue tragado por un gran pez y posteriormente predicó en Nínive.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-011",
+    "points": 100,
+    "type": "pregunta",
+    "question": "¿Quién recibió de Dios los Diez Mandamientos?",
+    "options": [
+      "Aarón",
+      "Josué",
+      "Moisés",
+      "Samuel"
+    ],
+    "correctAnswer": "Moisés",
+    "reference": "Éxodo 31:18",
+    "explanation": "Dios entregó a Moisés las tablas del testimonio en el Sinaí.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-012",
+    "points": 100,
+    "type": "pregunta",
+    "question": "¿Quién fue vendido por sus hermanos y llevado a Egipto?",
+    "options": [
+      "José",
+      "Benjamín",
+      "Isaac",
+      "Rubén"
+    ],
+    "correctAnswer": "José",
+    "reference": "Génesis 37",
+    "explanation": "Los hermanos de José lo vendieron a mercaderes que viajaban hacia Egipto.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-013",
+    "points": 100,
+    "type": "pregunta",
+    "question": "¿Cómo se llamaba la madre de Samuel?",
+    "options": [
+      "Ana",
+      "Abigail",
+      "Rut",
+      "Débora"
+    ],
+    "correctAnswer": "Ana",
+    "reference": "1 Samuel 1",
+    "explanation": "Ana oró por un hijo y posteriormente dedicó a Samuel al servicio de Dios.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-014",
+    "points": 100,
+    "type": "pregunta",
+    "question": "¿Quién fue el primer rey de Israel?",
+    "options": [
+      "David",
+      "Salomón",
+      "Saúl",
+      "Samuel"
+    ],
+    "correctAnswer": "Saúl",
+    "reference": "1 Samuel 10",
+    "explanation": "Saúl fue ungido como el primer rey de Israel.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-015",
+    "points": 100,
+    "type": "pregunta",
+    "question": "¿Qué personaje bíblico fue famoso por su extraordinaria fuerza?",
+    "options": [
+      "Sansón",
+      "Gedeón",
+      "Caleb",
+      "Absalón"
+    ],
+    "correctAnswer": "Sansón",
+    "reference": "Jueces 13–16",
+    "explanation": "Dios concedió a Sansón una fuerza extraordinaria.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-016",
+    "points": 100,
+    "type": "pregunta",
+    "question": "¿Qué discípulo caminó sobre el agua hacia Jesús?",
+    "options": [
+      "Juan",
+      "Andrés",
+      "Pedro",
+      "Felipe"
+    ],
+    "correctAnswer": "Pedro",
+    "reference": "Mateo 14:28-29",
+    "explanation": "Pedro salió de la barca y caminó hacia Jesús sobre el agua.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-017",
+    "points": 100,
+    "type": "pregunta",
+    "question": "¿Quién bautizó a Jesús?",
+    "options": [
+      "Pedro",
+      "Juan el Bautista",
+      "Zacarías",
+      "Santiago"
+    ],
+    "correctAnswer": "Juan el Bautista",
+    "reference": "Mateo 3:13-17",
+    "explanation": "Jesús fue bautizado por Juan en el río Jordán.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-018",
+    "points": 100,
+    "type": "pregunta",
+    "question": "¿Quién subió a un árbol para poder ver a Jesús?",
+    "options": [
+      "Bartimeo",
+      "Nicodemo",
+      "Zaqueo",
+      "Lázaro"
+    ],
+    "correctAnswer": "Zaqueo",
+    "reference": "Lucas 19:1-4",
+    "explanation": "Zaqueo subió a un sicómoro porque era de baja estatura.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-019",
+    "points": 100,
+    "type": "pregunta",
+    "question": "¿Qué discípulo traicionó a Jesús?",
+    "options": [
+      "Tomás",
+      "Judas Iscariote",
+      "Mateo",
+      "Andrés"
+    ],
+    "correctAnswer": "Judas Iscariote",
+    "reference": "Mateo 26:14-16",
+    "explanation": "Judas acordó entregar a Jesús por treinta piezas de plata.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-020",
+    "points": 100,
+    "type": "pregunta",
+    "question": "¿Cómo se llamaba la madre de Jesús?",
+    "options": [
+      "Marta",
+      "Elisabet",
+      "María",
+      "Salomé"
+    ],
+    "correctAnswer": "María",
+    "reference": "Mateo 1:18",
+    "explanation": "María fue escogida para ser la madre de Jesús.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-021",
+    "points": 100,
+    "type": "emoji",
+    "question": "¿Qué historia representan estos emojis? 🔥🌳👣👞",
+    "options": [
+      "Elías en el Carmelo",
+      "Moisés y la zarza ardiente",
+      "Daniel en el horno",
+      "La caída de Jericó"
+    ],
+    "correctAnswer": "Moisés y la zarza ardiente",
+    "reference": "Éxodo 3",
+    "explanation": "Dios llamó a Moisés desde una zarza que ardía sin consumirse.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-022",
+    "points": 100,
+    "type": "emoji",
+    "question": "¿Qué historia representan estos emojis? 🌊🚶‍♂️🚶‍♀️🪄",
+    "options": [
+      "El diluvio",
+      "El cruce del Mar Rojo",
+      "Jesús calma la tormenta",
+      "Pablo naufraga"
+    ],
+    "correctAnswer": "El cruce del Mar Rojo",
+    "reference": "Éxodo 14",
+    "explanation": "Dios abrió el mar para que Israel pudiera cruzar.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-023",
+    "points": 100,
+    "type": "emoji",
+    "question": "¿Qué historia representan estos emojis? 🧱🎺🔄💥",
+    "options": [
+      "La torre de Babel",
+      "La reconstrucción de Jerusalén",
+      "La caída de Jericó",
+      "El templo de Salomón"
+    ],
+    "correctAnswer": "La caída de Jericó",
+    "reference": "Josué 6",
+    "explanation": "Los muros de Jericó cayeron después de que Israel rodeó la ciudad siguiendo las instrucciones de Dios.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-024",
+    "points": 100,
+    "type": "completar",
+    "question": "“El que habita al abrigo del Altísimo morará bajo la sombra del _____.”",
+    "options": [
+      "Señor",
+      "Omnipotente",
+      "Altísimo",
+      "Salvador"
+    ],
+    "correctAnswer": "Omnipotente",
+    "reference": "Salmo 91:1",
+    "explanation": "El salmo expresa confianza en la protección de Dios.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-025",
+    "points": 100,
+    "type": "completar",
+    "question": "“Mas buscad primeramente el reino de Dios y su _____.”",
+    "options": [
+      "gloria",
+      "justicia",
+      "poder",
+      "voluntad"
+    ],
+    "correctAnswer": "justicia",
+    "reference": "Mateo 6:33",
+    "explanation": "Jesús enseñó a colocar el reino de Dios como prioridad.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-026",
+    "points": 100,
+    "type": "cita",
+    "question": "¿Dónde dijo Jesús: “Yo soy el camino, y la verdad, y la vida”?",
+    "options": [
+      "Juan 3:16",
+      "Juan 10:10",
+      "Juan 14:6",
+      "Juan 15:5"
+    ],
+    "correctAnswer": "Juan 14:6",
+    "reference": "Juan 14:6",
+    "explanation": "Jesús declara que el acceso al Padre es por medio de Él.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-027",
+    "points": 100,
+    "type": "cita",
+    "question": "¿En qué pasaje se encuentra el Padrenuestro enseñado por Jesús?",
+    "options": [
+      "Mateo 5:1-5",
+      "Mateo 6:9-13",
+      "Mateo 18:1-5",
+      "Mateo 28:18-20"
+    ],
+    "correctAnswer": "Mateo 6:9-13",
+    "reference": "Mateo 6:9-13",
+    "explanation": "Jesús enseñó esta oración durante el Sermón del Monte.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-028",
+    "points": 100,
+    "type": "orden",
+    "question": "¿Cuál de estos acontecimientos ocurrió primero?",
+    "options": [
+      "David derrota a Goliat",
+      "Daniel es llevado a Babilonia",
+      "Nace Moisés",
+      "Nace Jesús"
+    ],
+    "correctAnswer": "Nace Moisés",
+    "reference": "Éxodo 2",
+    "explanation": "Moisés vivió varios siglos antes de David, Daniel y Jesús.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-029",
+    "points": 100,
+    "type": "orden",
+    "question": "¿Cuál de estos acontecimientos ocurrió primero?",
+    "options": [
+      "El arca de Noé",
+      "El éxodo de Egipto",
+      "El reinado de David",
+      "El nacimiento de Jesús"
+    ],
+    "correctAnswer": "El arca de Noé",
+    "reference": "Génesis 6–9",
+    "explanation": "El relato de Noé ocurre antes del éxodo, del reinado de David y del nacimiento de Jesús.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-030",
+    "points": 100,
+    "type": "pregunta",
+    "question": "¿Cuántos apóstoles escogió Jesús?",
+    "options": [
+      "7",
+      "10",
+      "12",
+      "14"
+    ],
+    "correctAnswer": "12",
+    "reference": "Lucas 6:13",
+    "explanation": "Jesús escogió doce discípulos y los llamó apóstoles.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-031",
+    "points": 200,
+    "type": "pregunta",
+    "question": "¿Quién interpretó los sueños de Faraón?",
+    "options": [
+      "Moisés",
+      "José",
+      "Aarón",
+      "Daniel"
+    ],
+    "correctAnswer": "José",
+    "reference": "Génesis 41",
+    "explanation": "José explicó que los sueños anunciaban años de abundancia seguidos por hambre.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-032",
+    "points": 200,
+    "type": "pregunta",
+    "question": "¿Qué rey pidió sabiduría a Dios en lugar de riquezas?",
+    "options": [
+      "David",
+      "Ezequías",
+      "Salomón",
+      "Josías"
+    ],
+    "correctAnswer": "Salomón",
+    "reference": "1 Reyes 3:5-12",
+    "explanation": "Salomón pidió sabiduría para gobernar correctamente al pueblo.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-033",
+    "points": 200,
+    "type": "pregunta",
+    "question": "¿Quién sucedió a Moisés como líder de Israel?",
+    "options": [
+      "Caleb",
+      "Josué",
+      "Aarón",
+      "Gedeón"
+    ],
+    "correctAnswer": "Josué",
+    "reference": "Josué 1",
+    "explanation": "Josué dirigió a Israel después de la muerte de Moisés.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-034",
+    "points": 200,
+    "type": "pregunta",
+    "question": "¿Quién escondió a los espías israelitas en Jericó?",
+    "options": [
+      "Rut",
+      "Débora",
+      "Rahab",
+      "Jael"
+    ],
+    "correctAnswer": "Rahab",
+    "reference": "Josué 2",
+    "explanation": "Rahab protegió a los espías enviados por Josué.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-035",
+    "points": 200,
+    "type": "pregunta",
+    "question": "¿Qué mujer llegó a ser reina y ayudó a salvar al pueblo judío?",
+    "options": [
+      "Rut",
+      "Ester",
+      "Abigail",
+      "Betsabé"
+    ],
+    "correctAnswer": "Ester",
+    "reference": "Ester 4–7",
+    "explanation": "Ester intervino ante el rey para evitar la destrucción de su pueblo.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-036",
+    "points": 200,
+    "type": "pregunta",
+    "question": "¿Qué profeta ungió a David como futuro rey?",
+    "options": [
+      "Natán",
+      "Samuel",
+      "Gad",
+      "Elías"
+    ],
+    "correctAnswer": "Samuel",
+    "reference": "1 Samuel 16",
+    "explanation": "Samuel ungió a David mientras Saúl aún era rey.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-037",
+    "points": 200,
+    "type": "pregunta",
+    "question": "¿Qué profeta desafió a los profetas de Baal en el monte Carmelo?",
+    "options": [
+      "Eliseo",
+      "Jeremías",
+      "Elías",
+      "Amós"
+    ],
+    "correctAnswer": "Elías",
+    "reference": "1 Reyes 18",
+    "explanation": "Dios respondió con fuego a la oración de Elías.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-038",
+    "points": 200,
+    "type": "pregunta",
+    "question": "¿Cómo se llamaba el hermano de Moisés que llegó a ser sumo sacerdote?",
+    "options": [
+      "Hur",
+      "Aarón",
+      "Caleb",
+      "Nadab"
+    ],
+    "correctAnswer": "Aarón",
+    "reference": "Éxodo 4:14; 28:1",
+    "explanation": "Aarón ayudó a Moisés y posteriormente ejerció el sacerdocio.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-039",
+    "points": 200,
+    "type": "pregunta",
+    "question": "¿Cómo se llamaba la hermana de Moisés que fue profetisa?",
+    "options": [
+      "María (Miriam)",
+      "Débora",
+      "Séfora",
+      "Ana"
+    ],
+    "correctAnswer": "María (Miriam)",
+    "reference": "Éxodo 15:20",
+    "explanation": "María, hermana de Aarón y Moisés, dirigió a las mujeres después del cruce del mar.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-040",
+    "points": 200,
+    "type": "pregunta",
+    "question": "¿Qué discípulo negó tres veces conocer a Jesús?",
+    "options": [
+      "Juan",
+      "Tomás",
+      "Pedro",
+      "Felipe"
+    ],
+    "correctAnswer": "Pedro",
+    "reference": "Lucas 22:54-62",
+    "explanation": "Pedro negó conocer a Jesús antes de que cantara el gallo.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-041",
+    "points": 200,
+    "type": "pregunta",
+    "question": "¿Quién fue obligado a ayudar a Jesús a llevar la cruz?",
+    "options": [
+      "Nicodemo",
+      "Simón de Cirene",
+      "José de Arimatea",
+      "Bartimeo"
+    ],
+    "correctAnswer": "Simón de Cirene",
+    "reference": "Lucas 23:26",
+    "explanation": "Los soldados obligaron a Simón de Cirene a cargar la cruz detrás de Jesús.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-042",
+    "points": 200,
+    "type": "pregunta",
+    "question": "¿Quién pidió a Pilato el cuerpo de Jesús para sepultarlo?",
+    "options": [
+      "Nicodemo",
+      "José de Arimatea",
+      "Simón Pedro",
+      "Jairo"
+    ],
+    "correctAnswer": "José de Arimatea",
+    "reference": "Mateo 27:57-60",
+    "explanation": "José colocó el cuerpo de Jesús en un sepulcro nuevo.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-043",
+    "points": 200,
+    "type": "pregunta",
+    "question": "¿Quién fue el primer mártir cristiano registrado en Hechos?",
+    "options": [
+      "Esteban",
+      "Jacobo",
+      "Felipe",
+      "Bernabé"
+    ],
+    "correctAnswer": "Esteban",
+    "reference": "Hechos 7",
+    "explanation": "Esteban murió apedreado después de testificar ante el concilio.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-044",
+    "points": 200,
+    "type": "pregunta",
+    "question": "¿Quién se manifestó a Saulo en el camino a Damasco?",
+    "options": [
+      "Pedro",
+      "Esteban",
+      "Jesús",
+      "Ananías"
+    ],
+    "correctAnswer": "Jesús",
+    "reference": "Hechos 9:3-6",
+    "explanation": "Saulo oyó la voz de Jesús durante su viaje hacia Damasco.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-045",
+    "points": 200,
+    "type": "pregunta",
+    "question": "¿Quién explicó las Escrituras y bautizó al funcionario etíope?",
+    "options": [
+      "Pedro",
+      "Felipe",
+      "Pablo",
+      "Bernabé"
+    ],
+    "correctAnswer": "Felipe",
+    "reference": "Hechos 8:26-39",
+    "explanation": "Felipe explicó la profecía de Isaías y posteriormente bautizó al etíope.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-046",
+    "points": 200,
+    "type": "cita",
+    "question": "¿Dónde está escrito: “Porque de tal manera amó Dios al mundo…”?",
+    "options": [
+      "Juan 1:1",
+      "Juan 3:16",
+      "Romanos 5:8",
+      "Mateo 5:16"
+    ],
+    "correctAnswer": "Juan 3:16",
+    "reference": "Juan 3:16",
+    "explanation": "Es uno de los textos más conocidos acerca del amor de Dios y la salvación.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-047",
+    "points": 200,
+    "type": "cita",
+    "question": "¿Dónde está escrito: “Orad sin cesar”?",
+    "options": [
+      "Filipenses 4:6",
+      "Colosenses 4:2",
+      "1 Tesalonicenses 5:17",
+      "Santiago 5:16"
+    ],
+    "correctAnswer": "1 Tesalonicenses 5:17",
+    "reference": "1 Tesalonicenses 5:17",
+    "explanation": "Pablo anima a mantener una vida constante de oración.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-048",
+    "points": 200,
+    "type": "cita",
+    "question": "¿Dónde aparece la frase: “Cree en el Señor Jesucristo, y serás salvo”?",
+    "options": [
+      "Hechos 2:38",
+      "Hechos 4:12",
+      "Hechos 16:31",
+      "Romanos 10:9"
+    ],
+    "correctAnswer": "Hechos 16:31",
+    "reference": "Hechos 16:31",
+    "explanation": "Pablo y Silas dieron esta respuesta al carcelero de Filipos.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-049",
+    "points": 200,
+    "type": "completar",
+    "question": "“Porque por _____ sois salvos por medio de la fe…”",
+    "options": [
+      "obras",
+      "gracia",
+      "obediencia",
+      "justicia"
+    ],
+    "correctAnswer": "gracia",
+    "reference": "Efesios 2:8",
+    "explanation": "Pablo enseña que la salvación es un regalo de Dios.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-050",
+    "points": 200,
+    "type": "completar",
+    "question": "“Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia _____.”",
+    "options": [
+      "fuerza",
+      "opinión",
+      "prudencia",
+      "sabiduría"
+    ],
+    "correctAnswer": "prudencia",
+    "reference": "Proverbios 3:5",
+    "explanation": "El proverbio llama a confiar plenamente en Dios.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-051",
+    "points": 200,
+    "type": "completar",
+    "question": "“…porque el gozo de Jehová es vuestra _____.”",
+    "options": [
+      "esperanza",
+      "fortaleza",
+      "recompensa",
+      "paz"
+    ],
+    "correctAnswer": "fortaleza",
+    "reference": "Nehemías 8:10",
+    "explanation": "Nehemías animó al pueblo a encontrar fortaleza en el gozo que viene de Dios.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-052",
+    "points": 200,
+    "type": "emoji",
+    "question": "¿Qué historia representan estos emojis? 💪✂️👩⛓️",
+    "options": [
+      "David y Abigail",
+      "Sansón y Dalila",
+      "Salomón y la reina de Sabá",
+      "Jacob y Raquel"
+    ],
+    "correctAnswer": "Sansón y Dalila",
+    "reference": "Jueces 16",
+    "explanation": "Dalila descubrió el secreto de Sansón y su cabello fue cortado.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-053",
+    "points": 200,
+    "type": "emoji",
+    "question": "¿Qué historia representan estos emojis? 👶🧺🌊👑",
+    "options": [
+      "El nacimiento de Samuel",
+      "Moisés bebé en el río",
+      "Jesús llevado a Egipto",
+      "Isaac y Abraham"
+    ],
+    "correctAnswer": "Moisés bebé en el río",
+    "reference": "Éxodo 2:1-10",
+    "explanation": "La madre de Moisés lo colocó en una arquilla entre los juncos del río.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-054",
+    "points": 200,
+    "type": "emoji",
+    "question": "¿Qué acontecimiento representan estos emojis? 👑👶⚔️➡️🏃",
+    "options": [
+      "David huyendo de Saúl",
+      "José vendido a Egipto",
+      "La huida de Jesús a Egipto",
+      "Moisés huyendo de Faraón"
+    ],
+    "correctAnswer": "La huida de Jesús a Egipto",
+    "reference": "Mateo 2:13-15",
+    "explanation": "José llevó a María y al niño Jesús a Egipto para escapar de Herodes.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-055",
+    "points": 200,
+    "type": "emoji",
+    "question": "¿Qué milagro representan estos emojis? 🍞🐟👥👥",
+    "options": [
+      "La pesca milagrosa",
+      "Alimentación de los cinco mil",
+      "El maná en el desierto",
+      "La última cena"
+    ],
+    "correctAnswer": "Alimentación de los cinco mil",
+    "reference": "Mateo 14:13-21",
+    "explanation": "Jesús multiplicó cinco panes y dos peces para alimentar a una gran multitud.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-056",
+    "points": 200,
+    "type": "orden",
+    "question": "¿Cuál de estos acontecimientos ocurrió primero?",
+    "options": [
+      "David fue rey",
+      "David derrotó a Goliat",
+      "Salomón construyó el templo",
+      "El reino se dividió"
+    ],
+    "correctAnswer": "David derrotó a Goliat",
+    "reference": "1 Samuel 17",
+    "explanation": "David derrotó a Goliat antes de llegar al trono.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-057",
+    "points": 200,
+    "type": "orden",
+    "question": "¿Cuál ocurrió primero?",
+    "options": [
+      "La caída de Jericó",
+      "Gedeón derrota a Madián",
+      "El éxodo de Egipto",
+      "Salomón llega al trono"
+    ],
+    "correctAnswer": "El éxodo de Egipto",
+    "reference": "Éxodo 12–14",
+    "explanation": "El éxodo precedió la conquista de Canaán y el período de los jueces.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-058",
+    "points": 200,
+    "type": "pregunta",
+    "question": "¿Cómo se llamaba el hermano de Marta y María a quien Jesús resucitó?",
+    "options": [
+      "Jairo",
+      "Lázaro",
+      "Bartimeo",
+      "Nicodemo"
+    ],
+    "correctAnswer": "Lázaro",
+    "reference": "Juan 11",
+    "explanation": "Jesús llamó a Lázaro fuera del sepulcro después de cuatro días.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-059",
+    "points": 300,
+    "type": "pregunta",
+    "question": "¿Quién fue escogido para ocupar el lugar de Judas entre los doce?",
+    "options": [
+      "Bernabé",
+      "Silas",
+      "Matías",
+      "Esteban"
+    ],
+    "correctAnswer": "Matías",
+    "reference": "Hechos 1:23-26",
+    "explanation": "Matías fue escogido por suerte entre los candidatos presentados.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-060",
+    "points": 300,
+    "type": "pregunta",
+    "question": "¿Cuál era el nombre hebreo de Ester?",
+    "options": [
+      "Hadasa",
+      "Mical",
+      "Atalía",
+      "Abigail"
+    ],
+    "correctAnswer": "Hadasa",
+    "reference": "Ester 2:7",
+    "explanation": "Ester también era conocida por su nombre hebreo, Hadasa.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-061",
+    "points": 300,
+    "type": "pregunta",
+    "question": "¿Con cuántos hombres quedó finalmente el ejército de Gedeón?",
+    "options": [
+      "70",
+      "300",
+      "700",
+      "1,000"
+    ],
+    "correctAnswer": "300",
+    "reference": "Jueces 7:7",
+    "explanation": "Dios redujo el ejército de Gedeón a solo trescientos hombres.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-062",
+    "points": 300,
+    "type": "pregunta",
+    "question": "¿Qué profeta reprendió a David mediante la historia de una ovejita?",
+    "options": [
+      "Samuel",
+      "Gad",
+      "Natán",
+      "Elías"
+    ],
+    "correctAnswer": "Natán",
+    "reference": "2 Samuel 12:1-7",
+    "explanation": "Natán utilizó una parábola para confrontar a David por su pecado.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-063",
+    "points": 300,
+    "type": "pregunta",
+    "question": "¿Qué sacerdote encontró el libro de la ley durante el reinado de Josías?",
+    "options": [
+      "Sadoc",
+      "Hilcías",
+      "Joiada",
+      "Abiatar"
+    ],
+    "correctAnswer": "Hilcías",
+    "reference": "2 Reyes 22:8",
+    "explanation": "Hilcías encontró el libro mientras se realizaban trabajos en el templo.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-064",
+    "points": 300,
+    "type": "pregunta",
+    "question": "¿Qué rey vio aparecer una escritura misteriosa en la pared durante un banquete?",
+    "options": [
+      "Nabucodonosor",
+      "Ciro",
+      "Belsasar",
+      "Darío"
+    ],
+    "correctAnswer": "Belsasar",
+    "reference": "Daniel 5",
+    "explanation": "Daniel interpretó la escritura que anunció la caída del reino de Belsasar.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-065",
+    "points": 300,
+    "type": "pregunta",
+    "question": "¿Qué profeta tuvo la visión de un valle lleno de huesos secos?",
+    "options": [
+      "Isaías",
+      "Jeremías",
+      "Ezequiel",
+      "Zacarías"
+    ],
+    "correctAnswer": "Ezequiel",
+    "reference": "Ezequiel 37",
+    "explanation": "La visión simbolizaba la restauración de Israel.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-066",
+    "points": 300,
+    "type": "pregunta",
+    "question": "¿Qué mujer fue jueza y profetisa en Israel y llamó a Barac para la batalla?",
+    "options": [
+      "Débora",
+      "Jael",
+      "Hulda",
+      "Abigail"
+    ],
+    "correctAnswer": "Débora",
+    "reference": "Jueces 4",
+    "explanation": "Débora ejerció como jueza durante el período anterior a los reyes.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-067",
+    "points": 300,
+    "type": "pregunta",
+    "question": "¿Qué rey de Judá quedó leproso después de intentar quemar incienso en el templo?",
+    "options": [
+      "Ezequías",
+      "Uzías",
+      "Josías",
+      "Roboam"
+    ],
+    "correctAnswer": "Uzías",
+    "reference": "2 Crónicas 26:16-21",
+    "explanation": "Uzías intentó realizar una función reservada a los sacerdotes.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-068",
+    "points": 300,
+    "type": "pregunta",
+    "question": "¿Cómo se llamaba el joven que cayó desde una ventana mientras Pablo hablaba?",
+    "options": [
+      "Trófimo",
+      "Eutico",
+      "Aristarco",
+      "Timoteo"
+    ],
+    "correctAnswer": "Eutico",
+    "reference": "Hechos 20:9-12",
+    "explanation": "Eutico cayó desde el tercer piso y Pablo posteriormente lo tomó vivo.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-069",
+    "points": 300,
+    "type": "pregunta",
+    "question": "¿Qué matrimonio murió después de mentir acerca del dinero obtenido por una propiedad?",
+    "options": [
+      "Aquila y Priscila",
+      "Félix y Drusila",
+      "Ananías y Safira",
+      "Herodes y Herodías"
+    ],
+    "correctAnswer": "Ananías y Safira",
+    "reference": "Hechos 5:1-10",
+    "explanation": "Ambos mintieron acerca de la cantidad que habían entregado.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-070",
+    "points": 300,
+    "type": "pregunta",
+    "question": "¿Quién se convirtió junto con su casa después de que Pablo y Silas fueron liberados milagrosamente de la prisión?",
+    "options": [
+      "El carcelero de Filipos",
+      "Cornelio",
+      "Lidia",
+      "Crispo"
+    ],
+    "correctAnswer": "El carcelero de Filipos",
+    "reference": "Hechos 16:25-34",
+    "explanation": "Después del terremoto, el carcelero preguntó qué debía hacer para ser salvo.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-071",
+    "points": 300,
+    "type": "cita",
+    "question": "¿Dónde está escrito: “Así que la fe es por el oír, y el oír, por la palabra de Dios”?",
+    "options": [
+      "Romanos 5:1",
+      "Romanos 10:17",
+      "Hebreos 11:1",
+      "Santiago 1:22"
+    ],
+    "correctAnswer": "Romanos 10:17",
+    "reference": "Romanos 10:17",
+    "explanation": "Pablo relaciona la fe con escuchar la Palabra de Dios.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-072",
+    "points": 300,
+    "type": "cita",
+    "question": "¿Dónde está escrito: “Estad quietos, y conoced que yo soy Dios”?",
+    "options": [
+      "Salmo 27:1",
+      "Salmo 46:10",
+      "Salmo 91:2",
+      "Salmo 121:1"
+    ],
+    "correctAnswer": "Salmo 46:10",
+    "reference": "Salmo 46:10",
+    "explanation": "El salmo llama a reconocer la soberanía de Dios.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-073",
+    "points": 300,
+    "type": "cita",
+    "question": "¿Dónde dijo Jesús: “Porque donde esté vuestro tesoro, allí estará también vuestro corazón”?",
+    "options": [
+      "Mateo 5:16",
+      "Mateo 6:21",
+      "Mateo 7:7",
+      "Mateo 13:44"
+    ],
+    "correctAnswer": "Mateo 6:21",
+    "reference": "Mateo 6:21",
+    "explanation": "Jesús enseñó sobre la relación entre nuestras prioridades y nuestro corazón.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-074",
+    "points": 300,
+    "type": "completar",
+    "question": "“Porque no nos ha dado Dios espíritu de cobardía, sino de poder, de amor y de _____.”",
+    "options": [
+      "paciencia",
+      "dominio propio",
+      "sabiduría",
+      "esperanza"
+    ],
+    "correctAnswer": "dominio propio",
+    "reference": "2 Timoteo 1:7",
+    "explanation": "Pablo recuerda a Timoteo que Dios proporciona valor y autocontrol.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-075",
+    "points": 300,
+    "type": "completar",
+    "question": "“El temor de Jehová es el principio de la _____.”",
+    "options": [
+      "inteligencia",
+      "justicia",
+      "sabiduría",
+      "prudencia"
+    ],
+    "correctAnswer": "sabiduría",
+    "reference": "Proverbios 9:10",
+    "explanation": "Proverbios presenta la reverencia hacia Dios como fundamento de la verdadera sabiduría.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-076",
+    "points": 300,
+    "type": "emoji",
+    "question": "¿Qué historia representan estos emojis? 🔥🔥👨👨👨➕👤",
+    "options": [
+      "Elías en el Carmelo",
+      "Los tres hebreos en el horno",
+      "La destrucción de Sodoma",
+      "El sacrificio de Elías"
+    ],
+    "correctAnswer": "Los tres hebreos en el horno",
+    "reference": "Daniel 3",
+    "explanation": "Sadrac, Mesac y Abed-nego fueron lanzados al horno, donde apareció un cuarto personaje.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-077",
+    "points": 300,
+    "type": "emoji",
+    "question": "¿Qué historia representan estos emojis? 🤒🏞️7️⃣🧼✨",
+    "options": [
+      "Naamán es sanado",
+      "Jesús sana diez leprosos",
+      "Eliseo resucita a un niño",
+      "Ezequías es sanado"
+    ],
+    "correctAnswer": "Naamán es sanado",
+    "reference": "2 Reyes 5",
+    "explanation": "Naamán fue instruido a lavarse siete veces en el Jordán.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-078",
+    "points": 300,
+    "type": "emoji",
+    "question": "¿Qué historia representan estos emojis? 💤🪜☁️😇",
+    "options": [
+      "José interpreta sueños",
+      "Jacob sueña con una escalera",
+      "Daniel sueña con bestias",
+      "Salomón recibe sabiduría"
+    ],
+    "correctAnswer": "Jacob sueña con una escalera",
+    "reference": "Génesis 28:10-17",
+    "explanation": "Jacob vio en sueños una escalera que llegaba hasta el cielo.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-079",
+    "points": 300,
+    "type": "emoji",
+    "question": "¿Qué historia representan estos emojis? ⛵🌊🌪️😴✋",
+    "options": [
+      "Jonás huye hacia Tarsis",
+      "Jesús calma la tempestad",
+      "Pablo naufraga",
+      "Pedro camina sobre el agua"
+    ],
+    "correctAnswer": "Jesús calma la tempestad",
+    "reference": "Marcos 4:35-41",
+    "explanation": "Jesús reprendió al viento y al mar mientras viajaba con sus discípulos.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-080",
+    "points": 300,
+    "type": "orden",
+    "question": "¿Cuál de estos acontecimientos ocurrió primero?",
+    "options": [
+      "La caída de Jericó",
+      "Gedeón derrota a Madián",
+      "David derrota a Goliat",
+      "El cruce del Mar Rojo"
+    ],
+    "correctAnswer": "El cruce del Mar Rojo",
+    "reference": "Éxodo 14",
+    "explanation": "El cruce ocurrió antes de la entrada de Israel en Canaán.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-081",
+    "points": 300,
+    "type": "orden",
+    "question": "¿Cuál de estos acontecimientos ocurrió primero?",
+    "options": [
+      "La crucifixión de Jesús",
+      "Pentecostés",
+      "La conversión de Saulo",
+      "El ministerio de Juan el Bautista"
+    ],
+    "correctAnswer": "El ministerio de Juan el Bautista",
+    "reference": "Mateo 3",
+    "explanation": "Juan preparó el camino antes del ministerio público de Jesús.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-082",
+    "points": 300,
+    "type": "pregunta",
+    "question": "¿Qué artesano fue especialmente capacitado por Dios para trabajar en la construcción del santuario?",
+    "options": [
+      "Bezaleel",
+      "Hur",
+      "Coré",
+      "Eleazar"
+    ],
+    "correctAnswer": "Bezaleel",
+    "reference": "Éxodo 31:1-5",
+    "explanation": "Dios llenó a Bezaleel de sabiduría y habilidad para realizar trabajos artísticos.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-083",
+    "points": 500,
+    "type": "pregunta",
+    "question": "¿Qué juez benjamita zurdo mató al rey Eglón?",
+    "options": [
+      "Samgar",
+      "Aod",
+      "Jair",
+      "Tola"
+    ],
+    "correctAnswer": "Aod",
+    "reference": "Jueces 3:15-21",
+    "explanation": "Aod utilizó su condición de zurdo para ocultar una espada y matar al rey moabita Eglón.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-084",
+    "points": 500,
+    "type": "pregunta",
+    "question": "¿Cómo se llamaba el siervo del sumo sacerdote cuya oreja cortó Pedro?",
+    "options": [
+      "Malco",
+      "Bartimeo",
+      "Cleofas",
+      "Tíquico"
+    ],
+    "correctAnswer": "Malco",
+    "reference": "Juan 18:10",
+    "explanation": "Juan identifica por nombre al siervo herido durante el arresto de Jesús.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-085",
+    "points": 500,
+    "type": "pregunta",
+    "question": "¿Qué profeta recibió la orden de casarse con Gomer?",
+    "options": [
+      "Amós",
+      "Oseas",
+      "Joel",
+      "Miqueas"
+    ],
+    "correctAnswer": "Oseas",
+    "reference": "Oseas 1:2-3",
+    "explanation": "El matrimonio de Oseas formó parte del mensaje profético dirigido a Israel.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-086",
+    "points": 500,
+    "type": "pregunta",
+    "question": "¿Qué rey de Judá recibió quince años adicionales de vida después de orar?",
+    "options": [
+      "Asa",
+      "Josafat",
+      "Ezequías",
+      "Josías"
+    ],
+    "correctAnswer": "Ezequías",
+    "reference": "2 Reyes 20:1-6",
+    "explanation": "Dios respondió a la oración de Ezequías extendiendo su vida quince años.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-087",
+    "points": 500,
+    "type": "pregunta",
+    "question": "¿Qué rey cortó y quemó el rollo que contenía las palabras dictadas por Jeremías?",
+    "options": [
+      "Sedequías",
+      "Joacim",
+      "Josías",
+      "Joaquín"
+    ],
+    "correctAnswer": "Joacim",
+    "reference": "Jeremías 36:21-23",
+    "explanation": "Joacim fue quemando el rollo mientras se lo leían.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-088",
+    "points": 500,
+    "type": "pregunta",
+    "question": "¿Qué profetisa fue consultada durante el reinado de Josías después del hallazgo del libro de la ley?",
+    "options": [
+      "Débora",
+      "Ana",
+      "Hulda",
+      "Miriam"
+    ],
+    "correctAnswer": "Hulda",
+    "reference": "2 Reyes 22:14",
+    "explanation": "Los enviados del rey consultaron a la profetisa Hulda acerca del libro encontrado.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-089",
+    "points": 500,
+    "type": "pregunta",
+    "question": "¿En casa de quién permaneció el arca de Dios durante tres meses después de la muerte de Uza?",
+    "options": [
+      "Obed-edom",
+      "Ahimelec",
+      "Abiatar",
+      "Sadoc"
+    ],
+    "correctAnswer": "Obed-edom",
+    "reference": "2 Samuel 6:10-11",
+    "explanation": "El arca permaneció en la casa de Obed-edom y su familia fue bendecida.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-090",
+    "points": 500,
+    "type": "pregunta",
+    "question": "¿Qué sacerdote dirigió la coronación del joven rey Joás?",
+    "options": [
+      "Hilcías",
+      "Joiada",
+      "Sadoc",
+      "Abiatar"
+    ],
+    "correctAnswer": "Joiada",
+    "reference": "2 Reyes 11:4-12",
+    "explanation": "Joiada protegió a Joás y organizó su coronación como rey.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-091",
+    "points": 500,
+    "type": "pregunta",
+    "question": "¿Cómo se llamaba el discípulo antiguo de Chipre con quien Pablo y sus compañeros se hospedarían en Jerusalén?",
+    "options": [
+      "Mnasón",
+      "Aristarco",
+      "Trófimo",
+      "Sópatro"
+    ],
+    "correctAnswer": "Mnasón",
+    "reference": "Hechos 21:16",
+    "explanation": "Lucas identifica a Mnasón como un antiguo discípulo originario de Chipre.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-092",
+    "points": 500,
+    "type": "pregunta",
+    "question": "¿Qué platero provocó un alboroto en Éfeso debido a la predicación de Pablo?",
+    "options": [
+      "Alejandro",
+      "Demetrio",
+      "Diótrefes",
+      "Hermógenes"
+    ],
+    "correctAnswer": "Demetrio",
+    "reference": "Hechos 19:24-29",
+    "explanation": "Demetrio fabricaba templecillos de Diana y temía perder su negocio.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-093",
+    "points": 500,
+    "type": "pregunta",
+    "question": "¿Quién escribió materialmente la carta a los Romanos mientras Pablo la dictaba?",
+    "options": [
+      "Lucas",
+      "Timoteo",
+      "Tercio",
+      "Silas"
+    ],
+    "correctAnswer": "Tercio",
+    "reference": "Romanos 16:22",
+    "explanation": "Tercio se identifica a sí mismo como quien escribió la epístola.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-094",
+    "points": 500,
+    "type": "pregunta",
+    "question": "¿Cómo se llamaba el procónsul de Chipre que creyó después del enfrentamiento de Pablo con Elimas?",
+    "options": [
+      "Félix",
+      "Sergio Paulo",
+      "Galión",
+      "Porcio Festo"
+    ],
+    "correctAnswer": "Sergio Paulo",
+    "reference": "Hechos 13:7-12",
+    "explanation": "Sergio Paulo quedó impresionado por la enseñanza del Señor.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-095",
+    "points": 500,
+    "type": "cita",
+    "question": "¿Dónde está escrito: “Hierro con hierro se aguza; y así el hombre aguza el rostro de su amigo”?",
+    "options": [
+      "Proverbios 17:17",
+      "Proverbios 18:24",
+      "Proverbios 27:17",
+      "Eclesiastés 4:9"
+    ],
+    "correctAnswer": "Proverbios 27:17",
+    "reference": "Proverbios 27:17",
+    "explanation": "El proverbio utiliza la imagen del hierro para ilustrar la influencia entre personas.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-096",
+    "points": 500,
+    "type": "cita",
+    "question": "¿Dónde está escrito: “¿Andarán dos juntos, si no estuvieren de acuerdo?”",
+    "options": [
+      "Amós 3:3",
+      "Miqueas 6:8",
+      "Oseas 6:6",
+      "Malaquías 3:10"
+    ],
+    "correctAnswer": "Amós 3:3",
+    "reference": "Amós 3:3",
+    "explanation": "La pregunta retórica aparece dentro del mensaje profético de Amós.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-097",
+    "points": 500,
+    "type": "completar",
+    "question": "“El que encubre sus pecados no prosperará; mas el que los confiesa y se _____ alcanzará misericordia.”",
+    "options": [
+      "arrepiente",
+      "humilla",
+      "aparta",
+      "corrige"
+    ],
+    "correctAnswer": "aparta",
+    "reference": "Proverbios 28:13",
+    "explanation": "El texto relaciona confesión y abandono del pecado con misericordia.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-098",
+    "points": 500,
+    "type": "emoji",
+    "question": "¿Qué historia representan estos emojis? 🫏👁️👼⚔️",
+    "options": [
+      "Sansón y el león",
+      "Balaam y su asna",
+      "Saúl camino a Damasco",
+      "Elías y los cuervos"
+    ],
+    "correctAnswer": "Balaam y su asna",
+    "reference": "Números 22:21-35",
+    "explanation": "El asna de Balaam vio al ángel que bloqueaba el camino antes de que Balaam pudiera verlo.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-099",
+    "points": 500,
+    "type": "orden",
+    "question": "¿Cuál de estos acontecimientos ocurrió primero?",
+    "options": [
+      "Daniel es llevado a Babilonia",
+      "Jerusalén es destruida por Babilonia",
+      "Ciro conquista Babilonia",
+      "Josías llega a ser rey de Judá"
+    ],
+    "correctAnswer": "Josías llega a ser rey de Judá",
+    "reference": "2 Reyes 22; Daniel 1",
+    "explanation": "Josías comenzó a reinar antes de las deportaciones babilónicas asociadas con Daniel.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-100",
+    "points": 500,
+    "type": "pregunta",
+    "question": "¿Qué rey de Israel cayó por una ventana de su aposento alto y después envió mensajeros a consultar a Baal-zebub?",
+    "options": [
+      "Acab",
+      "Ocozías",
+      "Joram",
+      "Jehú"
+    ],
+    "correctAnswer": "Ocozías",
+    "reference": "2 Reyes 1:2",
+    "explanation": "Ocozías buscó consultar al dios de Ecrón después de sufrir la caída.",
+    "status": "available"
+  }
+]

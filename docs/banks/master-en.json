@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "BIB-001",
+    "points": 100,
+    "type": "pregunta",
+    "question": "Who built the ark at God's command?",
+    "options": [
+      "Abraham",
+      "Noah",
+      "Moses",
+      "Jacob"
+    ],
+    "correctAnswer": "Noah",
+    "reference": "Genesis 6:14",
+    "explanation": "God instructed Noah to build the ark before the flood.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-002",
+    "points": 100,
+    "type": "pregunta",
+    "question": "Who defeated Goliath?",
+    "options": [
+      "Saul",
+      "Jonathan",
+      "David",
+      "Samuel"
+    ],
+    "correctAnswer": "David",
+    "reference": "1 Samuel 17:49-50",
+    "explanation": "David defeated the Philistine giant with a sling and a stone.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-003",
+    "points": 100,
+    "type": "pregunta",
+    "question": "Who was thrown into the lions' den?",
+    "options": [
+      "Daniel",
+      "Jeremiah",
+      "Isaiah",
+      "Ezekiel"
+    ],
+    "correctAnswer": "Daniel",
+    "reference": "Daniel 6:16",
+    "explanation": "Daniel was condemned because he continued praying to God.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-004",
+    "points": 100,
+    "type": "pregunta",
+    "question": "In what city was Jesus born?",
+    "options": [
+      "Nazareth",
+      "Jerusalem",
+      "Jericho",
+      "Bethlehem"
+    ],
+    "correctAnswer": "Bethlehem",
+    "reference": "Matthew 2:1",
+    "explanation": "Jesus was born in Bethlehem of Judea.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-005",
+    "points": 100,
+    "type": "cita",
+    "question": "Where is it written, “The LORD is my shepherd; I shall not want”?",
+    "options": [
+      "Psalm 1:1",
+      "Psalm 23:1",
+      "Psalm 46:1",
+      "Psalm 91:1"
+    ],
+    "correctAnswer": "Psalm 23:1",
+    "reference": "Psalm 23:1",
+    "explanation": "This is the opening statement of Psalm 23.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-006",
+    "points": 100,
+    "type": "cita",
+    "question": "Where is it written, “I can do all things through Christ who strengthens me”?",
+    "options": [
+      "Philippians 4:13",
+      "Romans 8:28",
+      "Ephesians 6:10",
+      "Hebrews 11:1"
+    ],
+    "correctAnswer": "Philippians 4:13",
+    "reference": "Philippians 4:13",
+    "explanation": "Paul speaks about facing every circumstance through Christ's strength.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-007",
+    "points": 100,
+    "type": "completar",
+    "question": "“Your word is a lamp to my feet and a _____ to my path.”",
+    "options": [
+      "guide",
+      "light",
+      "fire",
+      "truth"
+    ],
+    "correctAnswer": "light",
+    "reference": "Psalm 119:105",
+    "explanation": "God's Word is pictured as light that guides the way.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-008",
+    "points": 100,
+    "type": "completar",
+    "question": "“In the beginning God created the heavens and the _____.”",
+    "options": [
+      "world",
+      "earth",
+      "nations",
+      "seas"
+    ],
+    "correctAnswer": "earth",
+    "reference": "Genesis 1:1",
+    "explanation": "This is the opening statement of the Bible.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-009",
+    "points": 100,
+    "type": "emoji",
+    "question": "Which Bible story do these emojis represent? 🍎🐍🌳👫",
+    "options": [
+      "Cain and Abel",
+      "Adam and Eve",
+      "Noah and the flood",
+      "Abraham and Sarah"
+    ],
+    "correctAnswer": "Adam and Eve",
+    "reference": "Genesis 3",
+    "explanation": "The emojis point to the temptation in the Garden of Eden.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-010",
+    "points": 100,
+    "type": "emoji",
+    "question": "Which Bible story do these emojis represent? 🐋🌊🙏🏙️",
+    "options": [
+      "Peter walking on water",
+      "Jonah",
+      "Paul's shipwreck",
+      "Crossing the Red Sea"
+    ],
+    "correctAnswer": "Jonah",
+    "reference": "Jonah 1–3",
+    "explanation": "Jonah was swallowed by a great fish and later preached in Nineveh.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-011",
+    "points": 100,
+    "type": "pregunta",
+    "question": "Who received the Ten Commandments from God?",
+    "options": [
+      "Aaron",
+      "Joshua",
+      "Moses",
+      "Samuel"
+    ],
+    "correctAnswer": "Moses",
+    "reference": "Exodus 31:18",
+    "explanation": "God gave Moses the tablets of the testimony at Mount Sinai.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-012",
+    "points": 100,
+    "type": "pregunta",
+    "question": "Who was sold by his brothers and taken to Egypt?",
+    "options": [
+      "Joseph",
+      "Benjamin",
+      "Isaac",
+      "Reuben"
+    ],
+    "correctAnswer": "Joseph",
+    "reference": "Genesis 37",
+    "explanation": "Joseph's brothers sold him to merchants traveling toward Egypt.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-013",
+    "points": 100,
+    "type": "pregunta",
+    "question": "What was Samuel's mother's name?",
+    "options": [
+      "Hannah",
+      "Abigail",
+      "Ruth",
+      "Deborah"
+    ],
+    "correctAnswer": "Hannah",
+    "reference": "1 Samuel 1",
+    "explanation": "Hannah prayed for a son and later dedicated Samuel to God's service.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-014",
+    "points": 100,
+    "type": "pregunta",
+    "question": "Who was the first king of Israel?",
+    "options": [
+      "David",
+      "Solomon",
+      "Saul",
+      "Samuel"
+    ],
+    "correctAnswer": "Saul",
+    "reference": "1 Samuel 10",
+    "explanation": "Saul was anointed as Israel's first king.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-015",
+    "points": 100,
+    "type": "pregunta",
+    "question": "Which Bible character was famous for extraordinary physical strength?",
+    "options": [
+      "Samson",
+      "Gideon",
+      "Caleb",
+      "Absalom"
+    ],
+    "correctAnswer": "Samson",
+    "reference": "Judges 13–16",
+    "explanation": "God gave Samson exceptional strength.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-016",
+    "points": 100,
+    "type": "pregunta",
+    "question": "Which disciple walked on water toward Jesus?",
+    "options": [
+      "John",
+      "Andrew",
+      "Peter",
+      "Philip"
+    ],
+    "correctAnswer": "Peter",
+    "reference": "Matthew 14:28-29",
+    "explanation": "Peter stepped out of the boat and walked toward Jesus.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-017",
+    "points": 100,
+    "type": "pregunta",
+    "question": "Who baptized Jesus?",
+    "options": [
+      "Peter",
+      "John the Baptist",
+      "Zechariah",
+      "James"
+    ],
+    "correctAnswer": "John the Baptist",
+    "reference": "Matthew 3:13-17",
+    "explanation": "Jesus was baptized by John in the Jordan River.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-018",
+    "points": 100,
+    "type": "pregunta",
+    "question": "Who climbed a tree so he could see Jesus?",
+    "options": [
+      "Bartimaeus",
+      "Nicodemus",
+      "Zacchaeus",
+      "Lazarus"
+    ],
+    "correctAnswer": "Zacchaeus",
+    "reference": "Luke 19:1-4",
+    "explanation": "Zacchaeus climbed a sycamore tree because he was short.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-019",
+    "points": 100,
+    "type": "pregunta",
+    "question": "Which disciple betrayed Jesus?",
+    "options": [
+      "Thomas",
+      "Judas Iscariot",
+      "Matthew",
+      "Andrew"
+    ],
+    "correctAnswer": "Judas Iscariot",
+    "reference": "Matthew 26:14-16",
+    "explanation": "Judas agreed to betray Jesus for thirty pieces of silver.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-020",
+    "points": 100,
+    "type": "pregunta",
+    "question": "What was the name of Jesus' mother?",
+    "options": [
+      "Martha",
+      "Elizabeth",
+      "Mary",
+      "Salome"
+    ],
+    "correctAnswer": "Mary",
+    "reference": "Matthew 1:18",
+    "explanation": "Mary was chosen to be the mother of Jesus.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-021",
+    "points": 100,
+    "type": "emoji",
+    "question": "Which Bible story do these emojis represent? 🔥🌳👣👞",
+    "options": [
+      "Elijah on Mount Carmel",
+      "Moses and the burning bush",
+      "Daniel's friends in the furnace",
+      "The fall of Jericho"
+    ],
+    "correctAnswer": "Moses and the burning bush",
+    "reference": "Exodus 3",
+    "explanation": "God called Moses from a bush that burned without being consumed.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-022",
+    "points": 100,
+    "type": "emoji",
+    "question": "Which event do these emojis represent? 🌊🚶‍♂️🚶‍♀️🪄",
+    "options": [
+      "The flood",
+      "Crossing the Red Sea",
+      "Jesus calming the storm",
+      "Paul's shipwreck"
+    ],
+    "correctAnswer": "Crossing the Red Sea",
+    "reference": "Exodus 14",
+    "explanation": "God opened the sea so Israel could cross.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-023",
+    "points": 100,
+    "type": "emoji",
+    "question": "Which event do these emojis represent? 🧱🎺🔄💥",
+    "options": [
+      "The Tower of Babel",
+      "Rebuilding Jerusalem",
+      "The fall of Jericho",
+      "Solomon's temple"
+    ],
+    "correctAnswer": "The fall of Jericho",
+    "reference": "Joshua 6",
+    "explanation": "Jericho's walls fell after Israel followed God's instructions.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-024",
+    "points": 100,
+    "type": "completar",
+    "question": "“He who dwells in the secret place of the Most High shall abide under the shadow of the _____.”",
+    "options": [
+      "Almighty",
+      "Savior",
+      "Lord",
+      "King"
+    ],
+    "correctAnswer": "Almighty",
+    "reference": "Psalm 91:1",
+    "explanation": "The verse describes security under God's protection.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-025",
+    "points": 100,
+    "type": "completar",
+    "question": "“But seek first the kingdom of God and His _____.”",
+    "options": [
+      "glory",
+      "righteousness",
+      "power",
+      "will"
+    ],
+    "correctAnswer": "righteousness",
+    "reference": "Matthew 6:33",
+    "explanation": "Jesus taught His followers to place God's kingdom first.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-026",
+    "points": 100,
+    "type": "cita",
+    "question": "Where did Jesus say, “I am the way, the truth, and the life”?",
+    "options": [
+      "John 3:16",
+      "John 10:10",
+      "John 14:6",
+      "John 15:5"
+    ],
+    "correctAnswer": "John 14:6",
+    "reference": "John 14:6",
+    "explanation": "Jesus declares that access to the Father is through Him.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-027",
+    "points": 100,
+    "type": "cita",
+    "question": "Where is the Lord's Prayer taught by Jesus?",
+    "options": [
+      "Matthew 5:1-5",
+      "Matthew 6:9-13",
+      "Matthew 18:1-5",
+      "Matthew 28:18-20"
+    ],
+    "correctAnswer": "Matthew 6:9-13",
+    "reference": "Matthew 6:9-13",
+    "explanation": "Jesus taught this prayer during the Sermon on the Mount.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-028",
+    "points": 100,
+    "type": "orden",
+    "question": "Which event happened first?",
+    "options": [
+      "David defeated Goliath",
+      "Daniel was taken to Babylon",
+      "Moses was born",
+      "Jesus was born"
+    ],
+    "correctAnswer": "Moses was born",
+    "reference": "Exodus 2",
+    "explanation": "Moses lived centuries before David, Daniel, and Jesus.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-029",
+    "points": 100,
+    "type": "orden",
+    "question": "Which event happened first?",
+    "options": [
+      "Noah's ark",
+      "The Exodus from Egypt",
+      "David's reign",
+      "Jesus' birth"
+    ],
+    "correctAnswer": "Noah's ark",
+    "reference": "Genesis 6–9",
+    "explanation": "Noah's story takes place before the Exodus, David's reign, and Jesus' birth.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-030",
+    "points": 100,
+    "type": "pregunta",
+    "question": "How many apostles did Jesus choose?",
+    "options": [
+      "7",
+      "10",
+      "12",
+      "14"
+    ],
+    "correctAnswer": "12",
+    "reference": "Luke 6:13",
+    "explanation": "Jesus chose twelve disciples whom He also called apostles.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-031",
+    "points": 200,
+    "type": "pregunta",
+    "question": "Who interpreted Pharaoh's dreams?",
+    "options": [
+      "Moses",
+      "Joseph",
+      "Aaron",
+      "Daniel"
+    ],
+    "correctAnswer": "Joseph",
+    "reference": "Genesis 41",
+    "explanation": "Joseph explained that the dreams foretold years of abundance followed by famine.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-032",
+    "points": 200,
+    "type": "pregunta",
+    "question": "Which king asked God for wisdom instead of riches?",
+    "options": [
+      "David",
+      "Hezekiah",
+      "Solomon",
+      "Josiah"
+    ],
+    "correctAnswer": "Solomon",
+    "reference": "1 Kings 3:5-12",
+    "explanation": "Solomon asked for wisdom so he could govern the people well.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-033",
+    "points": 200,
+    "type": "pregunta",
+    "question": "Who succeeded Moses as leader of Israel?",
+    "options": [
+      "Caleb",
+      "Joshua",
+      "Aaron",
+      "Gideon"
+    ],
+    "correctAnswer": "Joshua",
+    "reference": "Joshua 1",
+    "explanation": "Joshua led Israel after Moses died.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-034",
+    "points": 200,
+    "type": "pregunta",
+    "question": "Who hid the Israelite spies in Jericho?",
+    "options": [
+      "Ruth",
+      "Deborah",
+      "Rahab",
+      "Jael"
+    ],
+    "correctAnswer": "Rahab",
+    "reference": "Joshua 2",
+    "explanation": "Rahab protected the spies sent by Joshua.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-035",
+    "points": 200,
+    "type": "pregunta",
+    "question": "Which woman became queen and helped save the Jewish people?",
+    "options": [
+      "Ruth",
+      "Esther",
+      "Abigail",
+      "Bathsheba"
+    ],
+    "correctAnswer": "Esther",
+    "reference": "Esther 4–7",
+    "explanation": "Esther approached the king to prevent the destruction of her people.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-036",
+    "points": 200,
+    "type": "pregunta",
+    "question": "Which prophet anointed David as the future king?",
+    "options": [
+      "Nathan",
+      "Samuel",
+      "Gad",
+      "Elijah"
+    ],
+    "correctAnswer": "Samuel",
+    "reference": "1 Samuel 16",
+    "explanation": "Samuel anointed David while Saul was still king.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-037",
+    "points": 200,
+    "type": "pregunta",
+    "question": "Which prophet challenged the prophets of Baal on Mount Carmel?",
+    "options": [
+      "Elisha",
+      "Jeremiah",
+      "Elijah",
+      "Amos"
+    ],
+    "correctAnswer": "Elijah",
+    "reference": "1 Kings 18",
+    "explanation": "God answered Elijah's prayer with fire.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-038",
+    "points": 200,
+    "type": "pregunta",
+    "question": "What was the name of Moses' brother who became high priest?",
+    "options": [
+      "Hur",
+      "Aaron",
+      "Caleb",
+      "Nadab"
+    ],
+    "correctAnswer": "Aaron",
+    "reference": "Exodus 4:14; 28:1",
+    "explanation": "Aaron assisted Moses and later served as high priest.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-039",
+    "points": 200,
+    "type": "pregunta",
+    "question": "What was the name of Moses' sister who was a prophetess?",
+    "options": [
+      "Miriam",
+      "Deborah",
+      "Zipporah",
+      "Hannah"
+    ],
+    "correctAnswer": "Miriam",
+    "reference": "Exodus 15:20",
+    "explanation": "Miriam led the women in celebration after Israel crossed the sea.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-040",
+    "points": 200,
+    "type": "pregunta",
+    "question": "Which disciple denied knowing Jesus three times?",
+    "options": [
+      "John",
+      "Thomas",
+      "Peter",
+      "Philip"
+    ],
+    "correctAnswer": "Peter",
+    "reference": "Luke 22:54-62",
+    "explanation": "Peter denied Jesus before the rooster crowed.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-041",
+    "points": 200,
+    "type": "pregunta",
+    "question": "Who was forced to help Jesus carry the cross?",
+    "options": [
+      "Nicodemus",
+      "Simon of Cyrene",
+      "Joseph of Arimathea",
+      "Bartimaeus"
+    ],
+    "correctAnswer": "Simon of Cyrene",
+    "reference": "Luke 23:26",
+    "explanation": "The soldiers compelled Simon of Cyrene to carry the cross behind Jesus.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-042",
+    "points": 200,
+    "type": "pregunta",
+    "question": "Who asked Pilate for Jesus' body for burial?",
+    "options": [
+      "Nicodemus",
+      "Joseph of Arimathea",
+      "Simon Peter",
+      "Jairus"
+    ],
+    "correctAnswer": "Joseph of Arimathea",
+    "reference": "Matthew 27:57-60",
+    "explanation": "Joseph placed Jesus' body in a new tomb.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-043",
+    "points": 200,
+    "type": "pregunta",
+    "question": "Who was the first Christian martyr recorded in Acts?",
+    "options": [
+      "Stephen",
+      "James",
+      "Philip",
+      "Barnabas"
+    ],
+    "correctAnswer": "Stephen",
+    "reference": "Acts 7",
+    "explanation": "Stephen was stoned after testifying before the council.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-044",
+    "points": 200,
+    "type": "pregunta",
+    "question": "Who appeared to Saul on the road to Damascus?",
+    "options": [
+      "Peter",
+      "Stephen",
+      "Jesus",
+      "Ananias"
+    ],
+    "correctAnswer": "Jesus",
+    "reference": "Acts 9:3-6",
+    "explanation": "Saul heard Jesus' voice on his way to Damascus.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-045",
+    "points": 200,
+    "type": "pregunta",
+    "question": "Who explained the Scriptures and baptized the Ethiopian official?",
+    "options": [
+      "Peter",
+      "Philip",
+      "Paul",
+      "Barnabas"
+    ],
+    "correctAnswer": "Philip",
+    "reference": "Acts 8:26-39",
+    "explanation": "Philip explained Isaiah and then baptized the Ethiopian.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-046",
+    "points": 200,
+    "type": "cita",
+    "question": "Where is it written, “For God so loved the world…”?",
+    "options": [
+      "John 1:1",
+      "John 3:16",
+      "Romans 5:8",
+      "Matthew 5:16"
+    ],
+    "correctAnswer": "John 3:16",
+    "reference": "John 3:16",
+    "explanation": "This verse summarizes God's love and the gift of His Son.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-047",
+    "points": 200,
+    "type": "cita",
+    "question": "Where is it written, “Pray without ceasing”?",
+    "options": [
+      "Philippians 4:6",
+      "Colossians 4:2",
+      "1 Thessalonians 5:17",
+      "James 5:16"
+    ],
+    "correctAnswer": "1 Thessalonians 5:17",
+    "reference": "1 Thessalonians 5:17",
+    "explanation": "Paul encourages believers to maintain a continual life of prayer.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-048",
+    "points": 200,
+    "type": "cita",
+    "question": "Where is the statement, “Believe on the Lord Jesus Christ, and you will be saved”?",
+    "options": [
+      "Acts 2:38",
+      "Acts 4:12",
+      "Acts 16:31",
+      "Romans 10:9"
+    ],
+    "correctAnswer": "Acts 16:31",
+    "reference": "Acts 16:31",
+    "explanation": "Paul and Silas gave this answer to the Philippian jailer.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-049",
+    "points": 200,
+    "type": "completar",
+    "question": "“For by _____ you have been saved through faith…”",
+    "options": [
+      "works",
+      "grace",
+      "obedience",
+      "righteousness"
+    ],
+    "correctAnswer": "grace",
+    "reference": "Ephesians 2:8",
+    "explanation": "Paul teaches that salvation is God's gift.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-050",
+    "points": 200,
+    "type": "completar",
+    "question": "“Trust in the LORD with all your heart, and lean not on your own _____.”",
+    "options": [
+      "strength",
+      "opinion",
+      "understanding",
+      "wisdom"
+    ],
+    "correctAnswer": "understanding",
+    "reference": "Proverbs 3:5",
+    "explanation": "The proverb calls us to rely fully on God.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-051",
+    "points": 200,
+    "type": "completar",
+    "question": "“…for the joy of the LORD is your _____.”",
+    "options": [
+      "hope",
+      "strength",
+      "reward",
+      "peace"
+    ],
+    "correctAnswer": "strength",
+    "reference": "Nehemiah 8:10",
+    "explanation": "The people were encouraged to find strength in the joy of the Lord.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-052",
+    "points": 200,
+    "type": "emoji",
+    "question": "Which Bible story do these emojis represent? 💪✂️👩⛓️",
+    "options": [
+      "David and Abigail",
+      "Samson and Delilah",
+      "Solomon and the Queen of Sheba",
+      "Jacob and Rachel"
+    ],
+    "correctAnswer": "Samson and Delilah",
+    "reference": "Judges 16",
+    "explanation": "Delilah discovered Samson's secret, and his hair was cut.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-053",
+    "points": 200,
+    "type": "emoji",
+    "question": "Which Bible story do these emojis represent? 👶🧺🌊👑",
+    "options": [
+      "Samuel's birth",
+      "Baby Moses in the river",
+      "Jesus taken to Egypt",
+      "Isaac and Abraham"
+    ],
+    "correctAnswer": "Baby Moses in the river",
+    "reference": "Exodus 2:1-10",
+    "explanation": "Moses' mother placed him in a basket among the reeds.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-054",
+    "points": 200,
+    "type": "emoji",
+    "question": "Which event do these emojis represent? 👑👶⚔️➡️🏃",
+    "options": [
+      "David fleeing from Saul",
+      "Joseph being sold to Egypt",
+      "Jesus fleeing to Egypt",
+      "Moses fleeing Pharaoh"
+    ],
+    "correctAnswer": "Jesus fleeing to Egypt",
+    "reference": "Matthew 2:13-15",
+    "explanation": "Joseph took Mary and Jesus to Egypt to escape Herod.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-055",
+    "points": 200,
+    "type": "emoji",
+    "question": "Which miracle do these emojis represent? 🍞🐟👥👥",
+    "options": [
+      "The miraculous catch of fish",
+      "Feeding the five thousand",
+      "Manna in the wilderness",
+      "The Last Supper"
+    ],
+    "correctAnswer": "Feeding the five thousand",
+    "reference": "Matthew 14:13-21",
+    "explanation": "Jesus multiplied five loaves and two fish to feed the crowd.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-056",
+    "points": 200,
+    "type": "orden",
+    "question": "Which event happened first?",
+    "options": [
+      "David became king",
+      "David defeated Goliath",
+      "Solomon built the temple",
+      "The kingdom divided"
+    ],
+    "correctAnswer": "David defeated Goliath",
+    "reference": "1 Samuel 17",
+    "explanation": "David defeated Goliath before becoming king.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-057",
+    "points": 200,
+    "type": "orden",
+    "question": "Which event happened first?",
+    "options": [
+      "The fall of Jericho",
+      "Gideon defeated Midian",
+      "The Exodus from Egypt",
+      "Solomon became king"
+    ],
+    "correctAnswer": "The Exodus from Egypt",
+    "reference": "Exodus 12–14",
+    "explanation": "The Exodus occurred before Israel entered Canaan and before the period of the judges.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-058",
+    "points": 200,
+    "type": "pregunta",
+    "question": "What was the name of Martha and Mary's brother whom Jesus raised from the dead?",
+    "options": [
+      "Jairus",
+      "Lazarus",
+      "Bartimaeus",
+      "Nicodemus"
+    ],
+    "correctAnswer": "Lazarus",
+    "reference": "John 11",
+    "explanation": "Jesus called Lazarus out of the tomb after four days.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-059",
+    "points": 300,
+    "type": "pregunta",
+    "question": "Who was chosen to take Judas' place among the twelve?",
+    "options": [
+      "Barnabas",
+      "Silas",
+      "Matthias",
+      "Stephen"
+    ],
+    "correctAnswer": "Matthias",
+    "reference": "Acts 1:23-26",
+    "explanation": "Matthias was chosen from the candidates presented to replace Judas.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-060",
+    "points": 300,
+    "type": "pregunta",
+    "question": "What was Esther's Hebrew name?",
+    "options": [
+      "Hadassah",
+      "Michal",
+      "Athaliah",
+      "Abigail"
+    ],
+    "correctAnswer": "Hadassah",
+    "reference": "Esther 2:7",
+    "explanation": "Esther was also known by her Hebrew name, Hadassah.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-061",
+    "points": 300,
+    "type": "pregunta",
+    "question": "How many men remained in Gideon's army after God reduced it?",
+    "options": [
+      "70",
+      "300",
+      "700",
+      "1,000"
+    ],
+    "correctAnswer": "300",
+    "reference": "Judges 7:7",
+    "explanation": "God reduced Gideon's army to only three hundred men.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-062",
+    "points": 300,
+    "type": "pregunta",
+    "question": "Which prophet confronted David with the story of a poor man's lamb?",
+    "options": [
+      "Samuel",
+      "Gad",
+      "Nathan",
+      "Elijah"
+    ],
+    "correctAnswer": "Nathan",
+    "reference": "2 Samuel 12:1-7",
+    "explanation": "Nathan used the story to confront David about his sin.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-063",
+    "points": 300,
+    "type": "pregunta",
+    "question": "Which priest found the Book of the Law during King Josiah's reign?",
+    "options": [
+      "Zadok",
+      "Hilkiah",
+      "Jehoiada",
+      "Abiathar"
+    ],
+    "correctAnswer": "Hilkiah",
+    "reference": "2 Kings 22:8",
+    "explanation": "Hilkiah found the book while work was being done in the temple.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-064",
+    "points": 300,
+    "type": "pregunta",
+    "question": "Which king saw mysterious writing appear on a wall during a banquet?",
+    "options": [
+      "Nebuchadnezzar",
+      "Cyrus",
+      "Belshazzar",
+      "Darius"
+    ],
+    "correctAnswer": "Belshazzar",
+    "reference": "Daniel 5",
+    "explanation": "Daniel interpreted the message that announced the fall of Belshazzar's kingdom.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-065",
+    "points": 300,
+    "type": "pregunta",
+    "question": "Which prophet saw a vision of a valley full of dry bones?",
+    "options": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Zechariah"
+    ],
+    "correctAnswer": "Ezekiel",
+    "reference": "Ezekiel 37",
+    "explanation": "The vision pictured the restoration of Israel.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-066",
+    "points": 300,
+    "type": "pregunta",
+    "question": "Which woman served as both judge and prophetess and called Barak to battle?",
+    "options": [
+      "Deborah",
+      "Jael",
+      "Huldah",
+      "Abigail"
+    ],
+    "correctAnswer": "Deborah",
+    "reference": "Judges 4",
+    "explanation": "Deborah served as a judge during the period before Israel's kings.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-067",
+    "points": 300,
+    "type": "pregunta",
+    "question": "Which king of Judah became leprous after trying to burn incense in the temple?",
+    "options": [
+      "Hezekiah",
+      "Uzziah",
+      "Josiah",
+      "Rehoboam"
+    ],
+    "correctAnswer": "Uzziah",
+    "reference": "2 Chronicles 26:16-21",
+    "explanation": "Uzziah attempted to perform a duty reserved for priests.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-068",
+    "points": 300,
+    "type": "pregunta",
+    "question": "What was the name of the young man who fell from a window while Paul was speaking?",
+    "options": [
+      "Trophimus",
+      "Eutychus",
+      "Aristarchus",
+      "Timothy"
+    ],
+    "correctAnswer": "Eutychus",
+    "reference": "Acts 20:9-12",
+    "explanation": "Eutychus fell from the third story while Paul was speaking.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-069",
+    "points": 300,
+    "type": "pregunta",
+    "question": "Which married couple died after lying about money from the sale of property?",
+    "options": [
+      "Aquila and Priscilla",
+      "Felix and Drusilla",
+      "Ananias and Sapphira",
+      "Herod and Herodias"
+    ],
+    "correctAnswer": "Ananias and Sapphira",
+    "reference": "Acts 5:1-10",
+    "explanation": "Both lied about the amount of money they had given.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-070",
+    "points": 300,
+    "type": "pregunta",
+    "question": "Who was converted with his household after Paul and Silas were miraculously freed from prison?",
+    "options": [
+      "The Philippian jailer",
+      "Cornelius",
+      "Lydia",
+      "Crispus"
+    ],
+    "correctAnswer": "The Philippian jailer",
+    "reference": "Acts 16:25-34",
+    "explanation": "After the earthquake, the jailer asked what he needed to do to be saved.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-071",
+    "points": 300,
+    "type": "cita",
+    "question": "Where is it written, “So then faith comes by hearing, and hearing by the word of God”?",
+    "options": [
+      "Romans 5:1",
+      "Romans 10:17",
+      "Hebrews 11:1",
+      "James 1:22"
+    ],
+    "correctAnswer": "Romans 10:17",
+    "reference": "Romans 10:17",
+    "explanation": "Paul connects faith with hearing God's Word.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-072",
+    "points": 300,
+    "type": "cita",
+    "question": "Where is it written, “Be still, and know that I am God”?",
+    "options": [
+      "Psalm 27:1",
+      "Psalm 46:10",
+      "Psalm 91:2",
+      "Psalm 121:1"
+    ],
+    "correctAnswer": "Psalm 46:10",
+    "reference": "Psalm 46:10",
+    "explanation": "The psalm calls people to recognize God's sovereignty.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-073",
+    "points": 300,
+    "type": "cita",
+    "question": "Where did Jesus say, “For where your treasure is, there your heart will be also”?",
+    "options": [
+      "Matthew 5:16",
+      "Matthew 6:21",
+      "Matthew 7:7",
+      "Matthew 13:44"
+    ],
+    "correctAnswer": "Matthew 6:21",
+    "reference": "Matthew 6:21",
+    "explanation": "Jesus connects a person's treasure with the priorities of the heart.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-074",
+    "points": 300,
+    "type": "completar",
+    "question": "“For God has not given us a spirit of fear, but of power and of love and of a sound _____.”",
+    "options": [
+      "heart",
+      "mind",
+      "faith",
+      "spirit"
+    ],
+    "correctAnswer": "mind",
+    "reference": "2 Timothy 1:7",
+    "explanation": "Paul reminds Timothy that God gives power, love, and self-control rather than fear.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-075",
+    "points": 300,
+    "type": "completar",
+    "question": "“The fear of the LORD is the beginning of _____.”",
+    "options": [
+      "understanding",
+      "righteousness",
+      "wisdom",
+      "knowledge"
+    ],
+    "correctAnswer": "wisdom",
+    "reference": "Proverbs 9:10",
+    "explanation": "Reverence for God is presented as the foundation of true wisdom.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-076",
+    "points": 300,
+    "type": "emoji",
+    "question": "Which Bible story do these emojis represent? 🔥🔥👨👨👨➕👤",
+    "options": [
+      "Elijah on Mount Carmel",
+      "The three Hebrews in the furnace",
+      "The destruction of Sodom",
+      "Elijah's sacrifice"
+    ],
+    "correctAnswer": "The three Hebrews in the furnace",
+    "reference": "Daniel 3",
+    "explanation": "Shadrach, Meshach, and Abed-Nego were thrown into the furnace, where a fourth figure appeared.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-077",
+    "points": 300,
+    "type": "emoji",
+    "question": "Which Bible story do these emojis represent? 🤒🏞️7️⃣🧼✨",
+    "options": [
+      "Naaman is healed",
+      "Jesus heals ten lepers",
+      "Elisha raises a child",
+      "Hezekiah is healed"
+    ],
+    "correctAnswer": "Naaman is healed",
+    "reference": "2 Kings 5",
+    "explanation": "Naaman was told to wash seven times in the Jordan River.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-078",
+    "points": 300,
+    "type": "emoji",
+    "question": "Which Bible story do these emojis represent? 💤🪜☁️😇",
+    "options": [
+      "Joseph interprets dreams",
+      "Jacob dreams of a ladder",
+      "Daniel dreams of beasts",
+      "Solomon receives wisdom"
+    ],
+    "correctAnswer": "Jacob dreams of a ladder",
+    "reference": "Genesis 28:10-17",
+    "explanation": "Jacob dreamed of a ladder reaching from earth to heaven.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-079",
+    "points": 300,
+    "type": "emoji",
+    "question": "Which Bible story do these emojis represent? ⛵🌊🌪️😴✋",
+    "options": [
+      "Jonah sails toward Tarshish",
+      "Jesus calms the storm",
+      "Paul's shipwreck",
+      "Peter walks on water"
+    ],
+    "correctAnswer": "Jesus calms the storm",
+    "reference": "Mark 4:35-41",
+    "explanation": "Jesus rebuked the wind and the sea while traveling with His disciples.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-080",
+    "points": 300,
+    "type": "orden",
+    "question": "Which event happened first?",
+    "options": [
+      "The fall of Jericho",
+      "Gideon defeated Midian",
+      "David defeated Goliath",
+      "Crossing the Red Sea"
+    ],
+    "correctAnswer": "Crossing the Red Sea",
+    "reference": "Exodus 14",
+    "explanation": "The crossing happened before Israel entered Canaan.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-081",
+    "points": 300,
+    "type": "orden",
+    "question": "Which event happened first?",
+    "options": [
+      "Jesus' crucifixion",
+      "Pentecost",
+      "Saul's conversion",
+      "John the Baptist's ministry"
+    ],
+    "correctAnswer": "John the Baptist's ministry",
+    "reference": "Matthew 3",
+    "explanation": "John prepared the way before Jesus' public ministry.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-082",
+    "points": 300,
+    "type": "pregunta",
+    "question": "Which craftsman was specially equipped by God to work on the tabernacle?",
+    "options": [
+      "Bezalel",
+      "Hur",
+      "Korah",
+      "Eleazar"
+    ],
+    "correctAnswer": "Bezalel",
+    "reference": "Exodus 31:1-5",
+    "explanation": "God gave Bezalel wisdom and skill for artistic craftsmanship.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-083",
+    "points": 500,
+    "type": "pregunta",
+    "question": "Which left-handed Benjaminite judge killed King Eglon?",
+    "options": [
+      "Shamgar",
+      "Ehud",
+      "Jair",
+      "Tola"
+    ],
+    "correctAnswer": "Ehud",
+    "reference": "Judges 3:15-21",
+    "explanation": "Ehud concealed a sword and used it to kill the Moabite king Eglon.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-084",
+    "points": 500,
+    "type": "pregunta",
+    "question": "What was the name of the high priest's servant whose ear Peter cut off?",
+    "options": [
+      "Malchus",
+      "Bartimaeus",
+      "Cleopas",
+      "Tychicus"
+    ],
+    "correctAnswer": "Malchus",
+    "reference": "John 18:10",
+    "explanation": "John identifies the servant by name during Jesus' arrest.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-085",
+    "points": 500,
+    "type": "pregunta",
+    "question": "Which prophet was instructed to marry Gomer?",
+    "options": [
+      "Amos",
+      "Hosea",
+      "Joel",
+      "Micah"
+    ],
+    "correctAnswer": "Hosea",
+    "reference": "Hosea 1:2-3",
+    "explanation": "Hosea's marriage formed part of God's prophetic message to Israel.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-086",
+    "points": 500,
+    "type": "pregunta",
+    "question": "Which king of Judah was given fifteen additional years of life after praying?",
+    "options": [
+      "Asa",
+      "Jehoshaphat",
+      "Hezekiah",
+      "Josiah"
+    ],
+    "correctAnswer": "Hezekiah",
+    "reference": "2 Kings 20:1-6",
+    "explanation": "God answered Hezekiah's prayer by extending his life fifteen years.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-087",
+    "points": 500,
+    "type": "pregunta",
+    "question": "Which king cut up and burned the scroll containing Jeremiah's words?",
+    "options": [
+      "Zedekiah",
+      "Jehoiakim",
+      "Josiah",
+      "Jehoiachin"
+    ],
+    "correctAnswer": "Jehoiakim",
+    "reference": "Jeremiah 36:21-23",
+    "explanation": "Jehoiakim cut sections from the scroll and threw them into the fire.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-088",
+    "points": 500,
+    "type": "pregunta",
+    "question": "Which prophetess was consulted during Josiah's reign after the Book of the Law was found?",
+    "options": [
+      "Deborah",
+      "Anna",
+      "Huldah",
+      "Miriam"
+    ],
+    "correctAnswer": "Huldah",
+    "reference": "2 Kings 22:14",
+    "explanation": "The king's representatives went to Huldah for God's message concerning the book.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-089",
+    "points": 500,
+    "type": "pregunta",
+    "question": "In whose house did the ark of God remain for three months after Uzzah died?",
+    "options": [
+      "Obed-Edom",
+      "Ahimelech",
+      "Abiathar",
+      "Zadok"
+    ],
+    "correctAnswer": "Obed-Edom",
+    "reference": "2 Samuel 6:10-11",
+    "explanation": "The ark remained with Obed-Edom, and his household was blessed.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-090",
+    "points": 500,
+    "type": "pregunta",
+    "question": "Which priest led the coronation of the young king Joash?",
+    "options": [
+      "Hilkiah",
+      "Jehoiada",
+      "Zadok",
+      "Abiathar"
+    ],
+    "correctAnswer": "Jehoiada",
+    "reference": "2 Kings 11:4-12",
+    "explanation": "Jehoiada protected Joash and organized his coronation.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-091",
+    "points": 500,
+    "type": "pregunta",
+    "question": "What was the name of the early disciple from Cyprus with whom Paul and his companions planned to stay in Jerusalem?",
+    "options": [
+      "Mnason",
+      "Aristarchus",
+      "Trophimus",
+      "Sopater"
+    ],
+    "correctAnswer": "Mnason",
+    "reference": "Acts 21:16",
+    "explanation": "Luke identifies Mnason as an early disciple from Cyprus.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-092",
+    "points": 500,
+    "type": "pregunta",
+    "question": "Which silversmith stirred up a riot in Ephesus because of Paul's preaching?",
+    "options": [
+      "Alexander",
+      "Demetrius",
+      "Diotrephes",
+      "Hermogenes"
+    ],
+    "correctAnswer": "Demetrius",
+    "reference": "Acts 19:24-29",
+    "explanation": "Demetrius made silver shrines of Diana and feared losing business.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-093",
+    "points": 500,
+    "type": "pregunta",
+    "question": "Who physically wrote the letter to the Romans while Paul dictated it?",
+    "options": [
+      "Luke",
+      "Timothy",
+      "Tertius",
+      "Silas"
+    ],
+    "correctAnswer": "Tertius",
+    "reference": "Romans 16:22",
+    "explanation": "Tertius identifies himself as the person who wrote the epistle.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-094",
+    "points": 500,
+    "type": "pregunta",
+    "question": "What was the name of the proconsul of Cyprus who believed after Paul's encounter with Elymas?",
+    "options": [
+      "Felix",
+      "Sergius Paulus",
+      "Gallio",
+      "Porcius Festus"
+    ],
+    "correctAnswer": "Sergius Paulus",
+    "reference": "Acts 13:7-12",
+    "explanation": "Sergius Paulus believed after seeing what happened and hearing the teaching of the Lord.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-095",
+    "points": 500,
+    "type": "cita",
+    "question": "Where is it written, “As iron sharpens iron, so a man sharpens the countenance of his friend”?",
+    "options": [
+      "Proverbs 17:17",
+      "Proverbs 18:24",
+      "Proverbs 27:17",
+      "Ecclesiastes 4:9"
+    ],
+    "correctAnswer": "Proverbs 27:17",
+    "reference": "Proverbs 27:17",
+    "explanation": "The proverb uses iron as an image of the influence people can have on one another.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-096",
+    "points": 500,
+    "type": "cita",
+    "question": "Where is it written, “Can two walk together, unless they are agreed?”",
+    "options": [
+      "Amos 3:3",
+      "Micah 6:8",
+      "Hosea 6:6",
+      "Malachi 3:10"
+    ],
+    "correctAnswer": "Amos 3:3",
+    "reference": "Amos 3:3",
+    "explanation": "This rhetorical question appears in the prophetic message of Amos.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-097",
+    "points": 500,
+    "type": "completar",
+    "question": "“He who covers his sins will not prosper, but whoever confesses and _____ them will have mercy.”",
+    "options": [
+      "regrets",
+      "hides",
+      "forsakes",
+      "corrects"
+    ],
+    "correctAnswer": "forsakes",
+    "reference": "Proverbs 28:13",
+    "explanation": "The verse connects confession and turning away from sin with mercy.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-098",
+    "points": 500,
+    "type": "emoji",
+    "question": "Which Bible story do these emojis represent? 🫏👁️👼⚔️",
+    "options": [
+      "Samson and the lion",
+      "Balaam and his donkey",
+      "Saul on the road to Damascus",
+      "Elijah and the ravens"
+    ],
+    "correctAnswer": "Balaam and his donkey",
+    "reference": "Numbers 22:21-35",
+    "explanation": "Balaam's donkey saw the angel blocking the road before Balaam did.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-099",
+    "points": 500,
+    "type": "orden",
+    "question": "Which event happened first?",
+    "options": [
+      "Daniel was taken to Babylon",
+      "Jerusalem was destroyed by Babylon",
+      "Cyrus conquered Babylon",
+      "Josiah became king of Judah"
+    ],
+    "correctAnswer": "Josiah became king of Judah",
+    "reference": "2 Kings 22; Daniel 1",
+    "explanation": "Josiah began his reign before the Babylonian deportations associated with Daniel.",
+    "status": "available"
+  },
+  {
+    "id": "BIB-100",
+    "points": 500,
+    "type": "pregunta",
+    "question": "Which king of Israel fell through the lattice of his upper room and later sent messengers to inquire of Baal-Zebub?",
+    "options": [
+      "Ahab",
+      "Ahaziah",
+      "Joram",
+      "Jehu"
+    ],
+    "correctAnswer": "Ahaziah",
+    "reference": "2 Kings 1:2",
+    "explanation": "After his fall, Ahaziah sent messengers to inquire of the god of Ekron.",
+    "status": "available"
+  }
+]

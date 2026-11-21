@@ -1,0 +1,7 @@
+const CACHE='explorador-biblico-v2-pages-2';
+const CORE=['./','index.html','style.css','responsive.css','vendor/jszip.min.js','bank.js','banks.js','workbook.js','i18n.js','game-phrases.js','audio.js','pwa.js','game.js','v2.js','manifest.webmanifest','icons/icon-192.png','icons/icon-512.png','downloads/template-es.xlsx','downloads/template-en.xlsx','banks/master-es.json','banks/master-en.json','downloads/Prompt_Generador_Banco.txt'];
+const OPTIONAL=[];
+self.addEventListener('install',e=>e.waitUntil((async()=>{const cache=await caches.open(CACHE);await cache.addAll(CORE);await Promise.all(OPTIONAL.map(async url=>{try{const response=await fetch(url);if(response.ok)await cache.put(url,response);}catch{}}));})()));
+self.addEventListener('activate',e=>e.waitUntil((async()=>{for(const key of await caches.keys())if(key.startsWith('explorador-biblico-v2-pages-')&&key!==CACHE)await caches.delete(key);await self.clients.claim();for(const client of await self.clients.matchAll())client.postMessage({type:'OFFLINE_READY'});})()));
+self.addEventListener('message',e=>{if(e.data?.type==='STATUS')e.source?.postMessage({type:'OFFLINE_READY'});});
+self.addEventListener('fetch',e=>{const url=new URL(e.request.url);if(e.request.method!=='GET'||url.origin!==self.location.origin)return;if(e.request.mode==='navigate'){e.respondWith(fetch(e.request).catch(async()=>await caches.match('./')||await caches.match('index.html')));return;}e.respondWith((async()=>{const cached=await caches.match(e.request);if(cached)return cached;return fetch(e.request);})());});
