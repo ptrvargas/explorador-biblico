@@ -20,5 +20,10 @@ Pruebas: `node test-v2.cjs`, `node test-audio.cjs`, `node test-storage-pwa.cjs`,
 ## Datos locales
 Las partidas y los bancos se guardan en cada navegador. Los datos del enlace anterior de ChatGPT Sites no se transfieren automáticamente. Exportar los bancos desde el enlace anterior e importarlos en el nuevo.
 
-## Autoría y contenido
-Herramienta de acceso gratuito. No se concede una licencia general de redistribución o modificación del código mediante este README. Las traducciones bíblicas y dependencias conservan los derechos de sus respectivos titulares; JSZip incluye su licencia en `dist/vendor/JSZip-LICENSE.md`.
+## Autoría y licencia
+© 2026 Ricardo Vargas — @ptrvargas.
+
+Se permite usar, compartir y modificar gratuitamente, incluso en iglesias, escuelas e instituciones privadas. Se prohíbe vender el juego, cobrar por acceso o distribución y comercializar versiones modificadas sin autorización escrita del autor. Conservar autoría y avisos. Licencia personalizada; no aprobada por la OSI. Ver [LICENSE.md](LICENSE.md) y [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+## Borrador de revisión
+La rama `dev/licencia-pwa-intro` no publica GitHub Pages. La publicación sigue exclusivamente en `main`, carpeta `/docs`. No fusionar ni modificar la configuración de Pages sin autorización expresa.
