@@ -1,5 +1,5 @@
 const fs=require('fs'),vm=require('vm'),assert=require('assert'),{spawnSync}=require('child_process');
-const JSZip=require('/opt/codex/runtimes/codex-primary-runtime/dependencies/node/node_modules/jszip');
+const JSZip=require('./dist/vendor/jszip.min.js');
 class XmlNode{
  constructor(o){this.o=o;this.children=(o.children||[]).map(n=>new XmlNode(n));this.textContent=o.text||'';}
  getAttribute(k){return this.o.attrs?.[k]??null;}
